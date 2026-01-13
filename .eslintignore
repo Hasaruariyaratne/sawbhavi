@@ -1,0 +1,12 @@
+# Build directories
+online-store/.next/
+sawbhavi-unified/
+dist/
+dist-electron/
+node_modules/
+release/
+release_v2/
+
+# Generated files
+*.log
+lint-output.txt

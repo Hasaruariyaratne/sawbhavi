@@ -1,0 +1,13 @@
+{
+    "name": "sawbhavi-pos-deployment",
+    "version": "1.0.0",
+    "description": "Sawbhavi POS System - Deployment Package",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.18.2",
+        "open": "^8.4.2"
+    }
+}
